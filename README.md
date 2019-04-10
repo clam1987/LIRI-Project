@@ -4,13 +4,13 @@ In this project I had to learn how to use node's package managers and utilizied 
 
 Video Example: https://youtu.be/x7tmP6Ox91Q
 
-1.Start a CMD-Prompt
-2.Run node liri
-3.Choose one of the cases{(without the *)
-    *concert-this
-    *spotify-this-song
-    *movie-this
-    *do-what-it-says
-}
-4.Third type in a string corresponding to the case above.
-5.Profit
+1.Start a CMD-Prompt\
+2.Run node liri\
+3.Choose one of the cases{(without the *)\
+    *concert-this\
+    *spotify-this-song\
+    *movie-this\
+    *do-what-it-says\
+}\
+4.Third type in a string corresponding to the case above.\
+5.Profit\
